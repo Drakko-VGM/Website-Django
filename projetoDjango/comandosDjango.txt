@@ -1,0 +1,6 @@
+comandos do Django: criando e acessando
+
+	pip install django                           "Instalar o Django"
+ 	django-admin startproject website .          "Iniciar o projeto/'website' é um nome que pode ser alterado/usar o '.' para simplificar os arquivos e pastas"
+	python manage.py runserver                   "rodar o servidor"
+	python manage.py startapp design_ltda        "Iniciando o app/'design_ltda' é um nome que pode ser alterado"
